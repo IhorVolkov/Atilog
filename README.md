@@ -1,3 +1,3 @@
 # Atilog
 
-https://ihorvolkov.github.io/atilog/index.html
+https://ihorvolkov.github.io/Atilog/
